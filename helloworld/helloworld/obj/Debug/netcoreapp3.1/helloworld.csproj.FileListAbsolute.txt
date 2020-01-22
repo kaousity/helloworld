@@ -1,0 +1,10 @@
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/bin/Debug/netcoreapp3.1/helloworld
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/bin/Debug/netcoreapp3.1/helloworld.deps.json
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.json
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.dev.json
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/bin/Debug/netcoreapp3.1/helloworld.dll
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/bin/Debug/netcoreapp3.1/helloworld.pdb
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfoInputs.cache
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfo.cs
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/obj/Debug/netcoreapp3.1/helloworld.dll
+/Users/kaousity/Desktop/Seng8040/helloworld/helloworld/obj/Debug/netcoreapp3.1/helloworld.pdb
